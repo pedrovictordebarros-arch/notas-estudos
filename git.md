@@ -22,3 +22,18 @@ juntar texto = concatenar
 
 obs. Quando acontecer qualquer imprevisto no console (aperta seta para cima e depois Ctrl C)
 
+Variavel :
+
+<let>
+<const>
+
+sinal de igual (=) na variavel significa atribuição.
+
+//nome de virialve, pasta, arquivo evite usar acentos e numeral.
+
+const mediaNotas //CamelCase 
+const mediaNotas //PasquelCase
+const media_notas //SnakeCase
+const medianotas //LowerCase
+
+
