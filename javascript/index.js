@@ -18,5 +18,3 @@ nome = "batata"
 // nao pode alterar o valor de uma constante.
 
 
-
-
